@@ -3,23 +3,41 @@
 # ITE Project Road Map
 
 * [ITE Project Road Map](#ite-project-road-map)
+
       * [前言](#前言)
+
       * [ITE1 黑洞](#ite1-黑洞)
+
       * [ITE2 死星](#ite2-死星)
+
       * [ITE3 星域之门  （于2018-08-？ 15:00 开始）](#ite3-星域之门--于2018-08--1500-开始)
+
          * [ITE token 的特点](#ite-token-的特点)
+
          * [ITE token 发行时间](#ite-token-发行时间)
+
          * [ITE token 的发行规则](#ite-token-的发行规则)
+
          * [ITE token 的推荐人规则](#ite-token-的推荐人规则)
+
          * [项目寓意](#项目寓意)
+
       * [ITE4 奇点 （于2018-08-？ 15:00 开始）](#ite4-奇点-于2018-08--1500-开始)
+
       * [ITE5 无尽远征](#ite5-无尽远征)
+
       * [ITE6 平行时空](#ite6-平行时空)
+
       * [ITE7 多元宇宙](#ite7-多元宇宙)
+
       * [ITE8 多维空间](#ite8-多维空间)
+
       * [ITE9 世界尽头](#ite9-世界尽头)
+
       * [ITEX 绿洲](#itex-绿洲)
+
       * [别急 团队在做事](#别急-团队在做事)
+      
       * [总结](#总结)
 
 ## 前言
